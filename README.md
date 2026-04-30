@@ -43,6 +43,9 @@ url-shortener/
 ├── views/
 │ └── index.ejs
 │
+├── data/
+│ └── links.json
+│
 ├── public/
 │ └── style.css
 │
