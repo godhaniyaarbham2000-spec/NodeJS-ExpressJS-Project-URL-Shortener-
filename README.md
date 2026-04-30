@@ -60,19 +60,20 @@ url-shortener/
 ```
 git clone https://github.com/your-username/url-shortener.git
 ```
-2. Go to project folder
+### 2. GO to project folder
 ```
 cd url-shortener
 ```
-3. Install dependencies
+
+### 3. Install dependencies
 ```
 npm install
 ```
-4. Run project
+### 4. Run Project
 ```
 npm run dev
 ```
-5. Open in browser
+### 5. Open In Browser
 ```
 http://localhost:3007
 ```
