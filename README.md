@@ -29,7 +29,7 @@ It allows users to shorten long URLs with custom short codes and redirect using 
 
 ## 📁 Project Structure
 ```
-url-shortener/
+NodeJS-ExpressJS-Project-URL-Shortener-WebApp/
 │
 ├── controllers/
 │ └── postshortener.controller.js
@@ -61,11 +61,11 @@ url-shortener/
 
 ### 1. Clone repository
 ```
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/godhaniyaarbham2000-spec/NodeJS-ExpressJS-Project-URL-Shortener-WebApp.git
 ```
-### 2. GO to project folder
+### 2. Go to project folder
 ```
-cd url-shortener
+cd NodeJS-ExpressJS-Project-URL-Shortener-WebApp
 ```
 
 ### 3. Install dependencies
