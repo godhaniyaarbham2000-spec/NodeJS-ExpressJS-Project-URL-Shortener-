@@ -1,7 +1,7 @@
 # 🔗 URL Shortener (Node.js + Express.js)
 
 A simple and fast URL Shortener web application built using **Node.js, Express.js, EJS, and File System (JSON storage)**.  
-It allows users to shorten long URLs with custom short codes and redirect using generated links.
+It allows users to shorten long URLs with custom short codes and redirect using generated links. 
 
 ---
 
